@@ -1,7 +1,6 @@
-/*Problem Statement
-You are climbing a staircase with n steps to the top. Each time, you can climb either 1 step or 2 steps.
-
-Return the number of distinct ways you can climb to the top.*/
+--Problem Statement You are climbing a staircase --
+--with n steps to the top. Each time, you can climb either 1 step or 2 steps.
+--Return the number of distinct ways you can climb to the top.
 
 
 def climb_stairs(n):
